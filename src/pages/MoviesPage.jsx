@@ -27,4 +27,4 @@ export default function MoviesPage() {
       <MovieList movies={movies} />
     </div>
   );
-}
+}a
